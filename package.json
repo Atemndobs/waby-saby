@@ -1,0 +1,48 @@
+{
+  "name": "waby-saby",
+  "version": "0.0.1",
+  "description": "waby-saby a way of life",
+  "productName": "waby-saby",
+  "author": "Bertrand Atemkeng <bamarktfact@gmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "@vue/composition-api": "^0.6.4",
+    "axios": "^0.18.1",
+    "core-js": "^3.6.5",
+    "quasar": "^1.0.0",
+    "connect-history-api-fallback": "^1.6.0",
+    "express": "^4.17.1",
+    "serve-static": "^1.14.1",
+    "vue-pusher2": "^1.0.1"
+  },
+  "devDependencies": {
+    "@quasar/app": "^2.0.0",
+    "@types/node": "^10.17.15",
+    "devtron": "^1.4.0",
+    "electron": "^8.2.5",
+    "electron-debug": "^3.0.1",
+    "electron-devtools-installer": "^2.2.4",
+    "electron-packager": "^14.2.1",
+    "vue-pusher": "^1.0.0"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
